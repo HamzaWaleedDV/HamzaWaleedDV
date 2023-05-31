@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 <h3 align="center">
   Welcome to Hamza Waleed's profile!
