@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+<a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
 
 <h3 align="center">
   Welcome to Hamza Waleed's profile!
