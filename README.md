@@ -1,6 +1,4 @@
 
-<a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
-
 <h3 align="center">
   Welcome to Hamza Waleed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
