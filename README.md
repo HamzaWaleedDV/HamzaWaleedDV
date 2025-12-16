@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front-End Developer
+- 🏢 I'm a Back-End Developer
 - 👨‍💻 I'm currently learning Back-End for become a Full-Stuck
 - 💬 Ask me about my experience with Python, Django, C++, HTML, CSS, JS or anything related to web development.
 - ⚡ Fun Fact: I’m very curious to learn new information and gain more experience.
